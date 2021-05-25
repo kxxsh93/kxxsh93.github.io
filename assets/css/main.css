@@ -1788,6 +1788,10 @@ input, select, textarea {
 		color: #4acaa8;
 		font-size: 3.5em;
 	}
+	header.major h3 {
+		color: #4acaa8;
+		/*font-size: 3.5em;*/
+	}
 
 		header.major h2 + p {
 			color: #777;
@@ -2390,7 +2394,17 @@ input, select, textarea {
 						}
 
 		}
+/* customize*/
 
+	ul.custom li {
+		/*text-decoration: none;*/
+		display: inline-block;
+		margin: 0 0 1.6875em 0;
+		padding: 0.35em 0 0 3.5em;
+		/*position: relative;*/
+		vertical-align: top;
+		width: 48%;
+	}
 /* Feature Icons */
 
 	ul.feature-icons {
