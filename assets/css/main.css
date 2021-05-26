@@ -2823,7 +2823,7 @@ ader h1, #header h2, #header h3, #header h4, #header h5, #header h6 {
 }
 
 #header > nav ul li {
-	border-top: solid 2px #d68f25;
+	border-top: solid 2px #f5b668;
 	display: block;
 	padding: 0;
 }
@@ -3360,8 +3360,8 @@ ul, li {list-style:none;}
 .slidebox .slidelist .slideitem > a img {max-width:100%;}
 
 .slidebox .slide-control [class*="control"] label {position:absolute;z-index:10;top:50%;transform:translateY(-50%);padding:20px;border-radius:50%;cursor:pointer;}
-.slidebox .slide-control [class*="control"] label.prev {left:-50px;background:#333 url('../../images/left-arrow.png') center center / 50% no-repeat;}
-.slidebox .slide-control [class*="control"] label.next {right:-50px;background:#333 url('../../images/right-arrow.png') center center / 50% no-repeat;}
+.slidebox .slide-control [class*="control"] label.prev {left:-50px;background:#f39426 url('../../images/left-arrow.png') center center / 50% no-repeat;}
+.slidebox .slide-control [class*="control"] label.next {right:-50px;background:#f39426 url('../../images/right-arrow.png') center center / 50% no-repeat;}
 
 [name="slide"] {display:none;}
 #slide01:checked ~ .slidelist .slideitem {left:0;}
